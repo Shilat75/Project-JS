@@ -1,0 +1,54 @@
+{
+  "riddles": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "name": "Easy Math",
+      "taskDescription": "What is 5 + 3?",
+      "correctAnswer": "8",
+      "timeLimit": "5",
+      "hint": "5+2=7"
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "name": "The Missing Number",
+      "taskDescription": "What comes next? 2, 4, 8, 16, ?",
+      "correctAnswer": "32",
+      "timeLimit": "2",
+      "hint": "2,2*2=4,4*4...."
+    },
+    {
+      "id": 3,
+      "difficulty": "medium",
+      "name": "The Clock",
+      "taskDescription": "A clock strikes 6 times in 5 seconds. How long does it take to strike 12 times?",
+      "correctAnswer": "11",
+      "timeLimit": "10"
+    },
+    {
+      "name": "New riddle2",
+      "taskDescription": " to complite (8*3-2(3*3))",
+      "correctAnswer": "6",
+      "difficulty": "easy",
+      "timeLimit": 5,
+      "hint": "order ()",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "name": "The Missing Number",
+      "taskDescription": "What comes next? 3, 6, 9, 12, ?",
+      "correctAnswer": "15",
+      "timeLimit": "10"
+    }
+  ],
+  "players": [
+    {
+      "name": "shilat",
+      "lowestTime": 21663,
+      "id": 1
+    }
+  ]
+}
